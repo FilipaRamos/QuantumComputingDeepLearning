@@ -2,7 +2,7 @@
 
 Paper by <a href="https://scholar.google.com/citations?user=lyhWwOIAAAAJ&hl=pt-PT" target="_blank">Filipa Ramos</a>, <a href="https://scholar.google.com/citations?hl=pt-PT&user=fYCE5-sAAAAJ" target="_blank">João Paulo Fernandes</a> and <a href="https://scholar.google.com/citations?hl=pt-PT&user=x25BFgEAAAAJ" target="_blank">Rui Abreu</a> from FEUP, Portugal.
 
-![Target Architectures]: https://github.com/FilipaRamos/QuantumComputingDeepLearning/resources/QC-archs.png
+![Target Architectures](https://github.com/FilipaRamos/QuantumComputingDeepLearning/blob/main/resources/QC-archs.png)
 
 ### Introduction
 
