@@ -1,12 +1,9 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
-
 cff-version: 1.2.0
 title: Quantum Software Frameworks for Deep Learning
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
-type: software
+type: book
 authors:
   - given-names: Filipa
     family-names: Ramos Ferreira
@@ -33,3 +30,26 @@ authors:
       Sistemas e Computadores: Investigacão e
       Desenvolvimento em Lisboa, Porto, Portugal
     orcid: 'https://orcid.org/0000-0003-3734-3157'
+preferred-citation:
+  type: book
+  authors:  
+  - given-names: Filipa
+    family-names: Ramos Ferreira
+    email: filiparamos@fe.up.pt
+    orcid: 'https://orcid.org/0000-0003-4873-8488'
+  - given-names: João Paulo
+    name-particle: J. P.
+    family-names: Fernandes
+    email: jpaulo@fe.up.pt
+    orcid: 'https://orcid.org/0000-0002-1952-9460'
+  - given-names: Rui
+    family-names: Abreu
+    email: rui@computer.org
+    orcid: 'https://orcid.org/0000-0003-3734-3157'
+  doi: "10.1007/978-3-031-05324-5_15"
+  book: "Quantum Software Engineering"
+  month: 10
+  start: 281 # First page number
+  end: 302 # Last page number
+  title: "Quantum Software Frameworks for Deep Learning"
+  year: 2022
